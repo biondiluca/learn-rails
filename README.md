@@ -1,24 +1,11 @@
-# README
+“# Learning Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning Rails with a tutorial from [learn-rails.com](http://learn-rails.com/).
 
-Things you may want to cover:
+”
 
-* Ruby version
+Excerpt From
+Learn Ruby on Rails: Book Two
+Daniel Kehoe
+This material may be protected by copyright.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
